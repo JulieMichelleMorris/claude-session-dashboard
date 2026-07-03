@@ -1,0 +1,8 @@
+# The generated board contains real session content. It must never be committed.
+What-Was-I-Working-On.html
+board-*.html
+*.html
+
+# Personal variants carrying private tag rules stay local.
+*.private.ps1
+*.local.ps1
