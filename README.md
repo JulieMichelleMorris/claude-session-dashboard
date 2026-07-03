@@ -1,6 +1,6 @@
 # What Was I Working On
 
-A session recovery dashboard for Windows, for people who run a lot of Claude Code sessions and lose track of them.
+A session recovery dashboard for Windows, for people who run a lot of Claude Code CLI sessions and lose track of them.
 
 It builds a single HTML page on your desktop listing every real work session from the last 90 days, grouped by client, each with the first thing you asked, the last thing you said, and a click-to-copy command that drops you back into that exact session. After a crash, a closed terminal, or a week of chaos, you open one page and see exactly where you left off, everywhere.
 
