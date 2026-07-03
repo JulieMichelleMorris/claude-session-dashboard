@@ -70,4 +70,4 @@ Sections sort by freshest activity, so whoever you touched last is on top. Withi
 
 ## License
 
-MIT. Built by [Julie Morris](https://github.com/) with Claude Code, and used every day on the machine it was built on.
+MIT. Built by [Julie Michelle Morris](https://github.com/JulieMichelleMorris) with Claude Code, and used every day on the machine it was built on.
